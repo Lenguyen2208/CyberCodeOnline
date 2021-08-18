@@ -1,11 +1,11 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Hàng tồn kho",
+ 	 	 	"trans": "kho đồ",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Quest",
+ 	 	 	"trans": "nhiệm vụ",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
@@ -24,21 +24,21 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "ĐƠN VỊ ĐƠN VỊ ARASAKA",
+ 	 	 	 	"trans": "ĐƠN VỊ TRAO ĐỔI ARASAKA",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Bạn có thể mua các mặt hàng buff toàn cầu ở đây",
+ 	 	 	 	"trans": "Bạn có thể mua các buff toàn cầu ở đây",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need at least level 5 to access the unit exchange",
+ 	 	 	 	"trans": "bạn cần ít nhất cấp 5 để vào cửa hàng trao đổi",
  	 	 	 	"eng": "You need to be at least level 5 to access unit exchange"
  	 	 	}
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Mỹ phẩm cyberalwear",
+ 	 	 	 	"trans": " cửa hàng cyberwear",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
